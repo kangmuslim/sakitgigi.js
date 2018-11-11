@@ -1,0 +1,2 @@
+# sakitgigi.js
+sakitgigi
